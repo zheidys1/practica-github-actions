@@ -1,6 +1,6 @@
 name: Run Tests and Upload Artifact
 
-on: [push, pull_request]
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
   test:
