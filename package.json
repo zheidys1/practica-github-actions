@@ -1,0 +1,15 @@
+{
+  "name": "calculator-actions",
+  "version": "1.0.0",
+  "description": "Este proyecto es una calculadora simple en Node.js con un flujo de trabajo en GitHub Actions.",
+  "main": "src/calculator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
